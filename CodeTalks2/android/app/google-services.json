@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860396303359",
+    "project_id": "codetalks-mmertoglu",
+    "storage_bucket": "codetalks-mmertoglu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860396303359:android:dc28177fdffee3ffd4adca",
+        "android_client_info": {
+          "package_name": "com.codetalks2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860396303359-bcsnmd7g774lsumo3djd5ku7bjs4a7d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codetalks2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "860396303359-4d5tl798tk8eo3p9jv70h8qeno33urea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZAN6V2adC-PogozBDlX1J1RpN3STcWpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860396303359-4d5tl798tk8eo3p9jv70h8qeno33urea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
