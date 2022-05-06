@@ -26,4 +26,4 @@ With this app, you can create an account with email or google. You can create cu
 * Install React Native
 * Run on terminal 'git clone https://github.com/mmertoglu/CodeTalks2.git'
 * Run on terminal npm install
-* Run npx react-native run-android/ios
+* Run npx react-native run-android
